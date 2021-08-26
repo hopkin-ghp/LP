@@ -19,8 +19,21 @@
 ## 二、模型构建
 
 模型整体为卷积神经网络
+![model_achitecture](https://github.com/hopkin-ghp/LP/blob/master/%E6%A8%A1%E5%9E%8B%E7%BB%93%E6%9E%84.jpg)
 
 ## 三、训练流程
 
 
 ## 四、实验结果
+### 主要实验结果：
+
+||测试集1|测试集2|
+|:--|:--|:--|
+|准确率	|0.983	|0.976|
+|精确率	|1.000	|0.969|
+|召回率	|0.983	|0.983|
+|F1值	|0.991	|0.976|
+
+
+### ROC曲线：
+![ROC](https://github.com/hopkin-ghp/LP/blob/master/ROC%E6%9B%B2%E7%BA%BF.png)
